@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alienmaiker
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
