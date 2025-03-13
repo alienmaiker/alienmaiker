@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me https://discord.gg/jh42AWgxWJ
+- 📫 How to reach me [on reddit](https://www.reddit.com/user/9j810HQO7Jj9ns1ju2/)
 - ⚠️ Company and location are fictional
 
 <!---
